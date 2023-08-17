@@ -33,9 +33,9 @@ deployed using Django.itage.
 
 
 ### Screenshot
-![Alt text](https://drive.google.com/file/d/1pKs-AEOkEj_3M4ROL6hQ07g4qmmsUQ5y/view)
+![Alt text](dps1.png)
 
-![Alt text](https://drive.google.com/file/d/1F7CoKpR8m0kBHahuXipLi4Z0fnI6S5A4/view)
+![Alt text](dps2.png)
 
 ## Installation
 - Clone this repository and unzip it.
